@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoVideoViewer</string>
+    <string name="photosTab">Photos</string>
+    <string name="videosTab">Videos</string>
+    <string name="albumsTab">Albums</string>
+    <string name="exploreTab">Explore</string>
+</resources>
